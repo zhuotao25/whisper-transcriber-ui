@@ -1,0 +1,5 @@
+streamlit
+whisper
+tqdm  # For progress bars
+python-dotenv  # If using environment variables
+torch
